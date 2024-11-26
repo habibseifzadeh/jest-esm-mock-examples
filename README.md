@@ -1,4 +1,4 @@
-#How to mock ES modules with Jest (both Javascript and Typescript examples)
+# How to mock ES modules with Jest (both Javascript and Typescript examples)
 
 After spending a lot of time fixing all of the problems I faced for mocking ES modules with Jest, I decided to create a repository to have a full-working examples how we can do that. It's only based on my findings, so it may not be an ideal solution or even it can be wrong in some situations. So, please use it with our own risk!
 
